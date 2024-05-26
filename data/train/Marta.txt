@@ -1,0 +1,41 @@
+Hola, me llamo Marta. O sea, hoy ha sido un día súper raro, o sea, no te lo puedes imaginar. Primero, o sea, salgo de casa y me encuentro con que han cortado la calle.
+
+Luego, o sea, voy a la tienda y resulta que estaba cerrada por inventario, o sea, ¡qué mala suerte! Así que, o sea, decido ir a otra tienda, pero también estaba cerrada.
+
+O sea, parece que todo estaba en mi contra hoy, o sea, qué desesperación. O sea, después de todo esto, decido irme a casa y, o sea, ¡me encuentro con que he olvidado las llaves!
+
+O sea, definitivamente hoy no es mi día, o sea, espero que mañana sea mejor.
+
+Hola, soy Marta otra vez. O sea, hoy me ha pasado algo increíble, o sea, no te lo vas a creer. Estaba en el parque, o sea, paseando tranquilamente cuando, o sea, de repente veo a un perro haciendo piruetas.
+
+O sea, era un espectáculo, o sea, todo el mundo se quedó mirando. O sea, me acerqué al dueño y le pregunté, o sea, cómo había entrenado al perro así.
+
+O sea, me dijo que era un perro de circo retirado, o sea, ¡qué pasada! Luego, o sea, continué mi paseo y, o sea, me encontré con una amiga que no veía hace años.
+
+O sea, qué casualidad, o sea, nos pusimos a hablar y o sea, resultó ser un día bastante divertido. O sea, a veces la vida te sorprende, o sea, cuando menos te lo esperas.
+
+Hola, soy Marta otra vez. O sea, te cuento que hoy decidí hacer una tarta, o sea, porque tenía antojo de algo dulce. O sea, empiezo a mezclar los ingredientes y, o sea, me doy cuenta de que no tengo huevos.
+
+O sea, salgo corriendo al supermercado, o sea, y cuando llego me encuentro con una cola enorme. O sea, después de esperar como media hora, o sea, finalmente consigo los huevos y vuelvo a casa.
+
+O sea, sigo con la tarta y, o sea, al meterla en el horno, me doy cuenta de que no encendí el horno.
+
+O sea, qué desastre. O sea, al final, cuando por fin la tarta estuvo lista, o sea, ¡se me olvidó ponerle azúcar!
+
+O sea, no era mi día en la cocina, o sea, qué frustración. O sea, la próxima vez, o sea, seguro que me sale mejor.
+
+Hola, soy Marta de nuevo. O sea, hoy he estado trabajando en un proyecto, o sea, bastante complicado.
+
+O sea, me pidieron que actualizara un sistema para poder ajustar el threshold tanto en el entrenamiento como en la inferencia.
+
+O sea, primero tuve que entender bien cómo funcionaba el sistema, o sea, porque no era nada sencillo.
+
+O sea, después de varias horas, conseguí encontrar dónde estaban los parámetros que necesitaba modificar.
+
+O sea, modifiqué el código para permitir la entrada de threshold como parámetro, o sea, tanto en la fase de entrenamiento como en la de inferencia.
+
+O sea, hice varias pruebas para asegurarme de que todo funcionaba correctamente.
+
+O sea, al final conseguí que todo funcionara, o sea, fue un alivio. O sea, ahora el sistema es mucho más flexible, o sea, se puede ajustar fácilmente según las necesidades.
+
+O sea, me siento bastante satisfecha con el resultado, o sea, fue un buen desafío.
